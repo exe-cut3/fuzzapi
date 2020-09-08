@@ -39,6 +39,7 @@ gem 'sinatra', :require => false
 gem 'devise'
 gem 'rollbar'
 gem 'devise-bootstrap-views'
+gem 'rake'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

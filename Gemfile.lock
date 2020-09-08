@@ -224,6 +224,7 @@ DEPENDENCIES
   puma
   rails (~> 4.2.7.1)
   rails-assets-tether (>= 1.1.0)!
+  rake
   redis
   rollbar
   sass-rails (~> 5.0)
@@ -240,4 +241,4 @@ RUBY VERSION
    ruby 2.3.0p0
 
 BUNDLED WITH
-   1.15.0
+   1.16.6
