@@ -10,7 +10,8 @@ Fuzzapi is rails application which uses API_Fuzzer and provide UI solution for g
 
 ### Scan Histoy
 <img width="1679" alt="scan2" src="https://cloud.githubusercontent.com/assets/4562611/19390533/79f83b96-91f6-11e6-9476-c3093b809674.png">
-
+ 
+ 
 # Setup
 
 1. Install ruby in your machine either using `rvm` or `rbenv`
